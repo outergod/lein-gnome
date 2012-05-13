@@ -1,0 +1,6 @@
+/target
+/checkouts
+.lein-deps-sum
+.lein-plugins
+.lein-failures
+.lein-cljsbuild*
